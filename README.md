@@ -31,6 +31,3 @@ The main script `amazon_product_analysis.py` fetches product data from Amazon us
 - **Histogram**: Shows the distribution of prices for the products fetched from Amazon.
 - **Scatter Plot**: Illustrates the relationship between product prices and ratings.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
